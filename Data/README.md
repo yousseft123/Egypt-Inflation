@@ -4,7 +4,7 @@ This folder contains the dataset used for the Egypt Inflation Analysis project.
 
 ## Files
 
-- **inflation_dataset.csv**
+- **Egypt_inflation.xlsx**
   - Raw dataset used for analysis.
   - Contains inflation records, product prices, CPI, and related economic indicators.
 
