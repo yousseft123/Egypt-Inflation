@@ -26,8 +26,6 @@ This folder contains the interactive Excel dashboard developed for the Egypt Inf
 
 ## Key Insights
 
-📌 Key Insights
-
 ✓ Avg Inflation Rate: 22.37%
 
 ✓ Peak Inflation: 39.99%
