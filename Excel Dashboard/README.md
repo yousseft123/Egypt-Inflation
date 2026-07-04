@@ -25,9 +25,12 @@ This folder contains the interactive Excel dashboard developed for the Egypt Inf
 ---
 
 ## Key Insights
-Average inflation rate stood at 22.37%, peaking at 39.99% during high-impact periods.
-CPI (avg. 234) and average price ($427.21) move closely together, showing a strong positive correlation over time.
-Education (~23.2%) had the highest sector inflation, while Food & Beverages (~22.1%) had the lowest — despite Clothing having the highest average price.
-November consistently shows the highest inflation, suggesting a seasonal pattern (also high: Sep, Jul, May, Jan).
-74% of events had low impact, only a small fraction were high-impact (e.g. major rate hikes, COVID-19).
-Inflation consistently outpaced interest rates across the whole period, while the exchange rate stayed relatively stable.
+Education recorded the highest inflation rate among all sectors at 23.11%, while all other sectors remained closely clustered between 22% and 23%.
+
+Economic events categorized as having a High Impact heavily dominate the data, accounting for 74% of the recorded impact levels.
+
+Average Price and CPI are highly synchronized, showing a strong parallel trend line over the years.
+
+The overall Average Inflation Rate sits at 22.37%, supported by relatively stable historical trends in both exchange rates and interest rates.
+
+November and September stand out as the top months experiencing the highest inflation rates.
