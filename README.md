@@ -13,7 +13,7 @@ Analyze inflation trends in Egypt using Python for data analysis and Excel for i
 ## 📊 Dashboard Preview
 
 <p align="center">
-<img src="ُExcel Dashboard/Dashboard.jpeg" width="1000">
+  <img src="Excel%20Dashboard/Dashboard.jpeg" width="1000">
 </p>
 
 ---
